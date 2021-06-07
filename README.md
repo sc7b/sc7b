@@ -1,3 +1,12 @@
-I haven't added anything here yet
+Basic on the Apple IIc
+Hypercard
+Pascal
+C
+C++
+Java
+Perl
+R
+Python
+Swift
 
 🌻
